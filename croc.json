@@ -1,0 +1,42 @@
+{
+  "name": "Hello, Croc!",
+  "symbol": "CROC",
+  "description": "The Pants stay off!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/p72N7oZ4kmfhmVJSltZy9LiAdUIMdR88KmBOH6-n5_w",
+  "external_url": "",
+  "collection": {
+    "name": "Sunday Nudes",
+    "family": "Nudes"
+  },
+  "attributes": [
+    {
+      "trait_type": "Attributes Count",
+      "value": 2
+    },
+    {
+      "trait_type": "Type",
+      "value": "Croc"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "nude"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://arweave.net/p72N7oZ4kmfhmVJSltZy9LiAdUIMdR88KmBOH6-n5_w",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "AGQihb4Bp1MEMYZVoMFGhZqFX4x2JsWyktEvBXmVFKkC",
+        "verified": true,
+        "share": 100
+      }
+    ]
+  }
+}
